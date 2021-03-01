@@ -1,5 +1,5 @@
 /** 
-Código cria dios Arrays busca de forma aleatoria uma carta do baralho
+Código cria um Array e busca e mostra funcionalidades dos metodos da classe ArrayList
 *@author Carlos Dalagrana*/
 
 import java.util.ArrayList;

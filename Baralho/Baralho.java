@@ -1,5 +1,5 @@
 /** 
-Código cria dios Arrays busca de forma aleatoria uma carta do baralho
+Código cria um Array e busca de forma aleatoria uma carta do baralho
 *@author Carlos Dalagrana*/
 
 import java.util.Random;
